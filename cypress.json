@@ -1,0 +1,5 @@
+{
+  "baseUrl": "http://cypress-coverage.local",
+  "chromeWebSecurity": false,
+  "watchForFileChanges": false
+}

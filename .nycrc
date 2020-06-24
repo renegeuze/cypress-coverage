@@ -1,0 +1,12 @@
+{
+    "extension": [".js", ".tsx", ".ts"],
+    "include": [
+          "resources/**/*.tsx",
+          "resources/**/*.ts",
+          "resources/**/*.js"
+        ],
+    "extends": "@istanbuljs/nyc-config-typescript",
+    "all": true,
+    "sourceMap": true,
+    "instrument": true
+}
